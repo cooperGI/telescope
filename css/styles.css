@@ -1,0 +1,138 @@
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	background-color: #1e121c;
+}
+
+
+h1{
+	text-align: center;
+	color: #f9ebf6;
+}
+
+h2{
+	
+}
+
+blockquote{
+	text-align: center;
+	color: #a35a91;
+	font-size: 6em;
+	margin: 45px;
+	text-shadow: 1.5px 1.5px 6px #0e3046;
+	
+}
+
+table{
+	
+}
+
+.content{
+	width: 85%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	border-radius: 20px;
+}
+
+.content p{
+	margin: 15px;
+	color: #f9ebf6;
+	font-size: 2em;
+}
+
+.tarantulaimg{
+	width: 45%;
+	float: right;
+	padding: 10px;
+	margin-right: 25px;
+	border: double #a35a91 10px;
+	border-radius: 10px;
+}
+
+
+.neptuneimg{
+	width: 40%;
+	float: left;
+	padding: 10px;
+	margin-right: 25px;
+	border: double #a35a91 10px;
+	border-radius: 10px;
+}
+
+.cartimg{
+	width: 50%;
+	float: left;
+	padding: 10px;
+	margin-right: 25px;
+	border: double #a35a91 10px;
+	border-radius: 10px;
+}
+
+.cosimg{
+	width: 50%;
+	float: right;
+	padding: 10px;
+	margin-left: 15px;
+	border: double #a35a91 10px;
+	border-radius: 10px;
+}
+
+footer{
+	text-align: center;
+	color: #a35a91;
+}
+
+h3{
+	margin: 20px;
+}
+
+h4 {
+	color: #f9ebf6;
+	text-align: center;
+}
+
+legend, label{
+	color: #f9ebf6;
+	font-size: 1.5em;
+}
+
+#submit, #reset{
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 1.5em;
+	background-color: #0e3046;
+	color: #f9ebf6;
+}
+
+
+nav{
+	background-color: #0e3046;
+	font-size: 1.75em;
+	width: 100%;
+	height: 75px;
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav a{
+	color: #f9ebf6;
+	padding: 8px;
+	text-decoration: none;
+}
+
+h4{
+	margin-top: 20px;
+}
+
+.logo{
+	width: 200px;
+	float: left;
+}
